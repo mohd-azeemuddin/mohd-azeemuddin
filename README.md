@@ -1,73 +1,75 @@
-<div align="center">
+# Mohammed Azeemuddin
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:6C63FF&height=210&section=header&text=Mohammed%20Azeemuddin&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Python%20%C2%B7%20GenAI%20%C2%B7%20MLOps&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
+**AI/ML Engineer | Generative AI | Python | MLOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1200&color=8B7CFF&center=true&vCenter=true&width=900&lines=Building+practical+AI%2FML+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Exploring+GenAI+%7C+LLMs+%7C+RAG;From+data+and+models+to+deployment" alt="Typing SVG"/>
-
-<br/>
-
-&nbsp;
-<a href="https://www.linkedin.com/in/mohammed--azeemuddin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mohdazeemuddin2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://mohd-azeemuddin.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
+Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/mohammed--azeemuddin/) · [Portfolio](https://mohd-azeemuddin.github.io/) · [Email](mailto:mohdazeemuddin2002@gmail.com)
 
 ---
 
-## About
+## About Me
 
-I'm an **AI/ML Engineer** based in Bengaluru, India, with a B.E. in **Artificial Intelligence & Machine Learning** and a GPA of **8.55/10**.
+I'm an Artificial Intelligence and Machine Learning graduate with an interest in building practical AI solutions and intelligent applications.
 
-I enjoy building practical machine learning solutions across the lifecycle — from **data preprocessing, feature engineering, model development and evaluation to APIs, containerization, CI/CD and cloud deployment**.
+My experience spans machine learning, deep learning, NLP, computer vision, and end-to-end ML workflows. I'm currently expanding my expertise in Generative AI, LLM applications, RAG architectures, and agentic AI systems.
 
-My current interests are expanding toward **Generative AI, LLM applications, RAG systems and AI agents**, while continuing to strengthen my foundations in machine learning and production-oriented engineering.
+I enjoy working across the development lifecycle, from data preparation and model development to API development, containerization, and cloud deployment.
 
-* 🎓 B.E. in Artificial Intelligence & Machine Learning
-* 🤖 Focused on **AI/ML Engineering, Python and MLOps**
-* 🧠 Exploring **GenAI, LLMs, RAG and agentic AI**
-* ☁️ Hands-on with **Docker, FastAPI, AWS, DVC and CI/CD**
-* 📊 Experience with **machine learning, deep learning, NLP and computer vision**
-* 📍 Bengaluru, India
+- **Education:** B.E. in Artificial Intelligence & Machine Learning
+- **University:** VTU | KNS Institute of Technology
+- **CGPA:** 8.55/10
+- **Location:** Bengaluru, India
 
----
+## Technical Skills
 
-## Let's Connect
+**Programming:** Python, SQL
 
-I'm open to opportunities and conversations around:
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
 
-**AI/ML Engineering · Machine Learning · Python · Data Science · MLOps · Generative AI**
+**AI & GenAI:** NLP, Computer Vision, LLMs, RAG, LangGraph
 
-<div align="center">
+**Development:** FastAPI, Flask, REST APIs
 
-<a href="https://www.linkedin.com/in/mohammed--azeemuddin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**MLOps & Cloud:** Docker, DVC, AWS, GitHub Actions, CI/CD
 
-<a href="mailto:mohdazeemuddin2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI
 
-<a href="https://mohd-azeemuddin.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+## Featured Projects
 
-</div>
+### CodeSense – AI-Powered Code Review Agent
+An AI-powered GitHub pull request review system designed to analyze code changes and provide contextual feedback.
 
-<br/>
+- Built agent workflows using LangGraph.
+- Integrated ChromaDB for retrieval-augmented generation.
+- Used Groq for LLM inference.
+- Developed automated feedback workflows for GitHub pull requests.
 
-<div align="center">
+### End-to-End MLOps Disease Classification
+A machine learning project focused on building and deploying a complete model development pipeline.
 
-<i>Build with purpose. Learn continuously. Ship thoughtfully.</i>
+- Developed a disease classification pipeline using TensorFlow and Scikit-learn.
+- Integrated DVC for data and pipeline management.
+- Containerized the application using Docker.
+- Built API services using FastAPI and implemented CI/CD workflows.
 
-</div>
+### Electricity Price Prediction
+A machine learning regression project for predicting electricity prices.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=100&section=footer" width="100%"/>
+- Developed a predictive model using Random Forest Regressor.
+- Performed data preprocessing, exploratory data analysis, and model evaluation.
+
+## Current Interests
+
+- Generative AI and LLM Engineering
+- Agentic AI and Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Agent Evaluation and Reliability
+- Machine Learning Engineering and MLOps
+- Cloud-based AI Deployment
+
+## Connect
+
+I'm interested in connecting with engineers, developers, and teams working on AI/ML, Generative AI, and intelligent applications.
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed--azeemuddin/)
+- [Portfolio](https://mohd-azeemuddin.github.io/)
+- [Email](mailto:mohdazeemuddin2002@gmail.com)
