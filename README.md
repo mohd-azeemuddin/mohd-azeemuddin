@@ -22,18 +22,10 @@ I enjoy working across the development lifecycle, from data preparation and mode
 
 **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
 
-**AI & GenAI:** NLP, Computer Vision, LLMs, RAG, LangGraph
+**AI & GenAI:** Agentic AI, Generative AI, NLP, Computer Vision, LLMs, RAG, LangGraph
 
 **Development:** FastAPI, Flask, REST APIs
 
 **MLOps & Cloud:** Docker, DVC, AWS, GitHub Actions, CI/CD
 
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI
-
-## Connect
-
-I'm interested in connecting with engineers, developers, and teams working on AI/ML, Generative AI, and intelligent applications.
-
-- [LinkedIn](https://www.linkedin.com/in/mohammed--azeemuddin/)
-- [Portfolio](https://mohd-azeemuddin.github.io/)
-- [Email](mailto:mohdazeemuddin2002@gmail.com)
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Pycharm
